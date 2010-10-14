@@ -1,7 +1,11 @@
 .metadata
 ZKs
-DSS Core Business\bin
-DSS Core Business Test\bin
-DSS Web UI\build
-DSS Web UI\WebContent\WEB-INF\lib
-DSS Web UI Test\bin
+DSS Core Business/bin/*
+DSS Core Business/.settings/*
+DSS Core Business Test/bin/*
+DSS Core Business Test/.settings/*
+DSS Web UI/build/*
+DSS Web UI/.settings/*
+DSS Web UI/WebContent/WEB-INF/lib/*
+DSS Web UI Test/bin/*
+DSS Web UI Test/.settings/*
